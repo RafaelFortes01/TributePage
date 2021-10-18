@@ -5,4 +5,4 @@ Projeto criado e finalizado dia 17/08/21 (antes da utilização do GitHub)
 
 O principal objetivo era praticar os assuntos apresentados em um curso
 
-## (Não existe relação com o criador do projeto com o homem sitado na página, foi utilizado um procurado aleatória de página da Wikipédia)
+## (Não existe relação com o criador do projeto com o homem citado na página, foi utilizado um procurado aleatória de página da Wikipédia)
